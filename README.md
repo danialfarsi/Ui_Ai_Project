@@ -20,3 +20,6 @@ Is. The next page figure shows an example of a maze with starting point and endp
 <img width="652" alt="Screen Shot 1399-12-22 at 11 47 19" src="https://user-images.githubusercontent.com/43178887/110912034-b5fb2e00-8328-11eb-8de2-d2e6d8eb5e40.png">
 
 
+output:
+
+<img width="837" alt="Screen Shot 1399-12-22 at 12 04 45" src="https://user-images.githubusercontent.com/43178887/110914076-25721d00-832b-11eb-9b34-2e3164a0e65c.png">
